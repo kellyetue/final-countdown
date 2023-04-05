@@ -3,8 +3,8 @@ h2.textContent = "Kelly Etue!";
 
 document.querySelector("body").appendChild(h2);
 
-addEventListener("click", (image))
+addEventListener("click", (button))
 onclick = (image)
 const button = document.querySelector("button");
 
-button.addEventListener("click", (image))
+button.addEventListener("click", (button))
