@@ -4,5 +4,6 @@ body {
 }
 
 h2 {
-    text-shadow: 0cap;
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
