@@ -5,5 +5,15 @@ body {
 
 h2 {
     font-size: x-large;
-    font-family: fantasy;
+    font-family: monospace;
+}
+
+image {
+  width: 300px;
+    height: auto;
+    float: left;
+}
+
+p {
+  text-align: right;
 }
