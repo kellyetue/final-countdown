@@ -10,4 +10,7 @@ function addEventListener() {
     })
 }
 
+input.addEventListener('click', clickAlert);
+
+
 
