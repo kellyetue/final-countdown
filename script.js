@@ -6,7 +6,7 @@ document.querySelector("body").appendChild(h2);
 function addEventListener() {
     const input = document.getElementById('button');
     input.addEventListener('click', function() {
-        alert('Kellyetue@myaccount.com');
+        alert('click me');
     })
 }
 
