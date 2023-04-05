@@ -4,16 +4,27 @@ body {
 }
 
 h2 {
-    font-size: x-large;
+    font-size: xx-large;
     font-family: monospace;
+    font-weight: bolder;
 }
 
 image {
   width: 300px;
-    height: auto;
-    float: left;
+  height: 275px;
+  float: left;
 }
 
 p {
-  text-align: right;
+  text-align: center;
+}
+
+#purplebutton {
+  position: absolute;
+  top: auto;
+  left: auto;
+  height: 70px;
+  width: 140px;
+  background-color: rgb(144, 43, 226);
+  border-radius: 40px;
 }
